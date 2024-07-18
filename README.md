@@ -45,12 +45,10 @@ Key steps include:
 ## Model Training
 We experimented with several machine learning models to find the best one for this prediction task:
 
-- Linear Regression
 - Logistic Regression
 - Decision Tree
 - Random Forest
 - Support Vector Machine (SVM)
-- K-Nearest Neighbors (KNN)
 
 Each model was trained and evaluated based on its accuracy.
 

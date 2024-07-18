@@ -59,6 +59,6 @@ After evaluating all models, we found that the Random Forest provided the highes
 To make the prediction tool user-friendly, we created a GUI using Tkinter. The GUI allows users to input medical information and receive a prediction result indicating whether the individual is likely to have diabetes or not.
 
 ## Screenshot of the GUI
-![diabetes prediction tkinter](https://github.com/yourusername/Diabetes-Prediction/assets/sample-image.png)
+![diabetes prediction tkinter]([https://github.com/yourusername/Diabetes-Prediction/assets/sample-image.png](https://github.com/prateek7204/Diabetes-Prediction-Using-ML/blob/main/diabetes%20prediction%201.png))
 
 ---

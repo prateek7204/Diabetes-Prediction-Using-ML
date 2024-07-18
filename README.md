@@ -15,7 +15,7 @@ This project involves building a machine learning model to predict the likelihoo
 Diabetes prediction is a crucial task to ensure early diagnosis and treatment. In this project, we explore various machine learning algorithms to build an effective diabetes prediction model. The project culminates in a user-friendly GUI application where users can input medical information and get a prediction result.
 
 ## Dataset
-The dataset used for this project was sourced from [Kaggle](https://www.kaggle.com/). It contains labeled medical data, with labels indicating whether an individual has diabetes or not.
+The dataset used for this project was sourced from [Kaggle](https://www.kaggle.com/datasets/mathchi/diabetes-data-set). It contains labeled medical data, with labels indicating whether an individual has diabetes or not.
 
 ## Installation
 To run this project, you need to have Python installed along with the following libraries:
@@ -58,7 +58,3 @@ After evaluating all models, we found that the Random Forest provided the highes
 ## GUI Application
 To make the prediction tool user-friendly, we created a GUI using Tkinter. The GUI allows users to input medical information and receive a prediction result indicating whether the individual is likely to have diabetes or not.
 
-## Screenshot of the GUI
-![diabetes prediction tkinter]([https://github.com/yourusername/Diabetes-Prediction/assets/sample-image.png](https://github.com/prateek7204/Diabetes-Prediction-Using-ML/blob/main/diabetes%20prediction%201.png))
-
----
